@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Quanngov/goldclicker.policity/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quanngov/goldclicker.policity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Политика конфиденциальности и защиты информации.
+Оставляя данные приложению, Вы соглашаетесь с Политикой конфиденциальности и защиты информации. 
+Защита данных 
+Администрация приложения (Gold Clicker – Texas Valley) не может передать или раскрыть информацию, предоставленную пользователем при регистрации и использовании функций сайта третьим лицам, кроме случаев, описанных законодательством страны, на территории которой пользователь ведет свою деятельность. 
+Получение персональной информации 
+Для корректной работы приложения у пользователя берётся некоторая персональную информацию. 
+Использование персональной информации 
+Приложение использует личную информацию Пользователя для обслуживания и для улучшения качества предоставляемых услуг. Часть персональной информации может быть предоставлена банку или платежной системе, в случае, если предоставление этой информации обусловлено процедурой перевода средств платежной системе, услугами которой Пользователь желает воспользоваться. Администрация прилагает все усилия для сбережения в сохранности личных данных Пользователя. Личная информация может быть раскрыта в случаях, описанных законодательством, либо когда администрация сочтет подобные действия необходимыми для соблюдения юридической процедуры, судебного распоряжения или легального процесса необходимого для работы Пользователя с Приложением. В других случаях, ни при каких условиях, информация, которую Пользователь передает Приложению, не будет раскрыта третьим лицам.
+Ссылки 
+В приложении (в качестве рекламы) могут содержаться ссылки на другие сайты. Администрация не несет ответственности за содержание, качество и политику безопасности этих сайтов. Данное заявление о конфиденциальности относится только к информации, размещенной непосредственно на сайте. 
+Уведомления об изменениях 
+Администрация оставляет за собой право вносить изменения в Политику конфиденциальности без дополнительных уведомлений. Нововведения вступают в силу с момента их опубликования. Пользователи могут отслеживать изменения в Политике конфиденциальности самостоятельно.
